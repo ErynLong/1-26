@@ -1,0 +1,13 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "askForPassword": true,
+            "driver": "PostgreSQL",
+            "name": "1-26",
+            "connectString": "postgres://gjxbpnin:AM8MFPTbyYzaUaHTxkZ_kIXGNXfkWGVy@salt.db.elephantsql.com/gjxbpnin"
+        }
+    ]
+}
